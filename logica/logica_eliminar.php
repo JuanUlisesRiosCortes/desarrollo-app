@@ -1,4 +1,4 @@
-<link rel="Shortcut icon" href="../assets/vicon.png">
+<link rel="Shortcut icon" href="../assets/coders2.png">
 <link rel="stylesheet" type="text/css" href="../assets/estilo.php">
 <title>ELIMINADO</title>
 
@@ -25,7 +25,7 @@ echo"<body class='sansserif'>
 
     body {
         
-        background: url('../assets/back2.jpg') repeat center fixed;
+        background: url('../assets/back2.png') repeat center fixed;
         color: #ED5A3D;
         background-size: cover;
         font-size: 2em;
