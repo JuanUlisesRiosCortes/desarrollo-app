@@ -1,19 +1,8 @@
 <?php header("Content-type: text/css");
-
-//Creo un array con varios colores
-/*$color[0]='#3A3A3B';
-$color[1]='#636468';
-
-
-// Elijo un color aleatorio
-$i=rand(0,0);
-$u=rand(5,0);
-*/
-
 echo"
 .body1{
     background: url('back.png') repeat center fixed;
-    background-size: cover;
+    background-size: 100% 100%;
     position:relative;
     height:auto;
 }
@@ -106,4 +95,3 @@ echo"
     color: white;
 }
 ";
-?>
